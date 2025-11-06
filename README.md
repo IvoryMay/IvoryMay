@@ -15,11 +15,11 @@ I enjoy working with **React,Next JS, Tailwind CSS, PHP, and Laravel** — and I
 
 Hey there! If you’d like to see more of what I build, or experiment with, here’s where you can find me online 👇
 
-💻 **Portfolio:** https://portfolio-next-js-blush-iota.vercel.app/
+💻 **Portfolio:** (https://portfolio-next-js-blush-iota.vercel.app/)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/theint-s-kyaw-3999732b6/
+💼 **LinkedIn:** (https://www.linkedin.com/in/theint-sandi-kyaw-3999732b6/)
 
-🐙 **GitHub:** https://github.com/IvoryMay/
+🐙 **GitHub:** (https://github.com/IvoryMay/)
 
 📧 **Email:** [theintsandikyaw1@gmail.com](mailto:theintsandikyaw1@gmail.com) 
 
